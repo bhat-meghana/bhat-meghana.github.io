@@ -30,7 +30,7 @@ consequat."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: midnight
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
