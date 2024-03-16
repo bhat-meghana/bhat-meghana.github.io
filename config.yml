@@ -1,7 +1,7 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+title: Meghana Bhat
 paginate: 20
-theme: PaperMod
+theme: midnight
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
