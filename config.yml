@@ -1,7 +1,7 @@
 baseURL: "https://meghanabhat.github.io/" 
 title: Meghana Bhat
 paginate: 20
-theme: midnight
+theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
