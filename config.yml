@@ -23,12 +23,12 @@ menu:
 
 
 params:
-    description: "I am a Ph.D. student . My research covers various topics.
+    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
 consequat."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
@@ -48,37 +48,45 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: MEGHANA BHAT
-          subtitle: "I'm a PhD student in Mathematics at the Indian Institute of Technology Dharwad. My research interest is in Commutative algebra. In particular, I work on problems related to Hilbert functions."
+          title: Meghana Bhat
+          subtitle: "I am a PhD student"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Meghana Bhat
+          imageTitle: Prof. Name
           buttons:
             - name: Papers
               url: papers/
-            - name: Academics
+            - name: Courses
               url: courses/
-            # - name: Data
-            #   url: data/
-            - name: Links
+            - name: Data
+              url: data/
+            - name: Newsletter
+              url: https://pmichaillat.substack.com
+            - name: Tags
               url: tags/
-            - name: Others
+            - name: Archive
               url: archive/
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:mbhat.math@gmail.com
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/meghanamath 
+          url: mailto:pascal.michaillat@gmail.com
         - name: Location
           url: location/
-        # - name: Google Scholar
-        #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: Office Hours
+          url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: YouTube
+          url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/MeghanaBht
-       
+          url: https://github.com/pmichaillat
+        - name: Substack
+          url: https://pmichaillat.substack.com
+        - name: Twitter
+          url: https://twitter.com/pmichaillat
+
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
@@ -86,7 +94,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Meghana Bhat"
+      text: "Prof. Name"
       icon: favicon.ico
       iconHeight: 18
 
