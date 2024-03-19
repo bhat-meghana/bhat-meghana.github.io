@@ -23,7 +23,7 @@ menu:
 
 
 params:
-    description: "I am a Ph.D. student . My research covers various topics.
+    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
 consequat."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
@@ -53,7 +53,7 @@ consequat."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Meghana Bhat
+          imageTitle: Prof. Name
           buttons:
             - name: Papers
               url: papers/
