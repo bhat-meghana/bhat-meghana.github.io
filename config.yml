@@ -23,8 +23,9 @@ menu:
 
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
+    description: "I'm a PhD student in Mathematics at the Indian Institute of Technology Dharwad.
+                  My research interest is in Commutative algebra. In particular, 
+                  I work on problems related to Hilbert functions."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -49,20 +50,20 @@ consequat."
     profileMode:
           enabled: true
           title: Meghana Bhat
-          subtitle: "I am a PhD student"
-          imageUrl: "picture.jpeg"
+          subtitle: "I'm a PhD student in Mathematics at the Indian Institute of Technology Dharwad. 
+                    My research interest is in Commutative algebra. In particular, 
+                    I work on problems related to Hilbert functions"
+          imageUrl: "profile_picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Meghana Bhat
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
+            - name: Academics
               url: courses/
-            - name: Data
+            - name: Links
               url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
             - name: Tags
               url: tags/
             - name: Archive
@@ -71,21 +72,11 @@ consequat."
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: mailto:mbhat.math@gmail.com
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://github.com/MeghanaBht
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/meghanamath
 
     assets:
         disableHLJS: true
@@ -94,7 +85,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Meghana Bhat"
       icon: favicon.ico
       iconHeight: 18
 
