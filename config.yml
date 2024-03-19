@@ -14,10 +14,10 @@ menu:
         - name: Papers
           url: papers/
           weight: 1
-        - name: Courses
+        - name: Academics
           url: courses/
           weight: 2
-        - name: Data
+        - name: Links
           url: data/
           weight: 3 
 
