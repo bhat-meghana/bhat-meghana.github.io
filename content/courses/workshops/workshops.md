@@ -5,7 +5,7 @@ url: /course/
 aliases:
     - /old_url.html
 tags: ["keyword 1","keyword 2"]
-author: ["Course Author 1", "Course Author 2"]
+author: [" "]
 description: "Workshops attended" 
 summary: "Here is a list of workshops that I have attended"
 cover:
