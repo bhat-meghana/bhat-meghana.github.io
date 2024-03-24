@@ -2,7 +2,7 @@
 title: "On Gorensteinness of associated graded rings" 
 date: 2024-02-05
 tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Author Name"
+author: "  "
 description: "This paper shows things. Published in Journal of algebra February 2024." 
 summary: " " 
 cover:
