@@ -1,12 +1,12 @@
 ---
-title: "Course Title 2" 
+title: "Teaching" 
 date: 2021-06-16
 tags: ["keyword 4","keyword 5","keyword 6"]
 author: ["Prof. Name 1","Prof. Name 2"]
 description: "This undergraduate course presents many new things." 
 summary: "This undergraduate course presents various methods and many results." 
 cover:
-    image: "course2.png"
+    image: "/courses/teaching/teaching.png"
     alt: "Figure caption"
     relative: false
 editPost:

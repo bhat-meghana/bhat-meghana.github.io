@@ -1,12 +1,12 @@
 ---
-title: "Course Title 1"
-date: 2022-03-10
+title: "Education"
+date: 2024-03-24
 tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Prof. Name"
+author: "Meghana Bhat"
 description: "This graduate course presents things." 
 summary: "This graduate course presents various methods and results." 
 cover:
-    image: "course1.png"
+    image: "/courses/education/education.png"
     alt: "Figure caption"
     relative: false
 editPost:
