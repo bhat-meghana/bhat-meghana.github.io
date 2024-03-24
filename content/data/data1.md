@@ -18,7 +18,7 @@ disableAnchoredHeadings: false
 ---
 
 ## List of Links
-- [MTTS](https://mtts.org.in/) and  
+- [MTTS](https://mtts.org.in/)  
 - [Expository articles](https://4dspace.mtts.org.in/ea) by Prof. S. Kumaresan.
 - Link3
 - Link4

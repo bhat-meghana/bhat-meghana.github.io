@@ -9,7 +9,7 @@ description: "Mailing and office addresses at the University of Place."
 
 #### Mailing address
 
-Department of Subject
+Department of Mathematics
 University of Place
 Street
 City, State, Zip
