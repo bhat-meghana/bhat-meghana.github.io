@@ -6,7 +6,7 @@ author: "Meghana Bhat"
 description: " " 
 summary: " " 
 cover:
-    image: "/courses/education/education.png"
+    # image: "/courses/education/education.png"
     # alt: "Figure caption"
     relative: false
 # editPost:
