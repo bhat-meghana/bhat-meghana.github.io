@@ -1,7 +1,7 @@
 ---
 title: "Education"
 date: 2024-03-24
-tags: ["IIT Dharwad","PhD","Mathematics", "PMRF"]
+tags: ["IIT Dharwad","PhD","Mathematics"]
 author: "Meghana Bhat"
 description: " " 
 summary: " " 
@@ -19,6 +19,8 @@ disableAnchoredHeadings: false
 
 ### Ph.D. Mathematics
 Indian Institute of Technology Dharwad (July 2021 - present)
+- Advisor : Dr. Shreedevi Masuti
+- Research area : Commutative algebra
 
 ---
 
