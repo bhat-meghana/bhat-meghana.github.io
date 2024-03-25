@@ -4,7 +4,7 @@ date: 2024-03-24
 url: /course/
 aliases:
     - /old_url.html
-tags: ["keyword 1","keyword 2"]
+tags: ["MTTS","Commutative algebra workshops"]
 author: [" "]
 description: "Workshops attended" 
 summary: " "
