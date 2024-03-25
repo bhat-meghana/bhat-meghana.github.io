@@ -17,7 +17,6 @@ disableAnchoredHeadings: false
 
 ---
 
-## List of Links
 - [MTTS](https://mtts.org.in/)  
 - [Expository articles](https://4dspace.mtts.org.in/ea) by Prof. S. Kumaresan.
 - [Expository articles](https://kconrad.math.uconn.edu/blurbs/) by Prof. Keith Conrad.

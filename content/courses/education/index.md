@@ -2,7 +2,7 @@
 title: "Education"
 date: 2024-03-24
 tags: ["IIT Dharwad","PhD","Mathematics"]
-author: "Meghana Bhat"
+author: " "
 description: " " 
 summary: " " 
 cover:
