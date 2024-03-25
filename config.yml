@@ -86,7 +86,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Meghana Bhat"
-      icon: favicon.ico
+      icon: faviconM.ico
       iconHeight: 18
 
 markup:

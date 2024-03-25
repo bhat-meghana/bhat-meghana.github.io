@@ -9,7 +9,7 @@ author: [" "]
 description: "Workshops attended" 
 summary: "Here is a list of workshops that I have attended"
 cover:
-    image: "/courses/workshops/workshops.png"
+    # image: "/courses/workshops/workshops.png"
     # alt: "Figure from course"
     relative: false
 editPost:
