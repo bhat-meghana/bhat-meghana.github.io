@@ -32,6 +32,7 @@ The following is a list of workshops and conferences that I have attended.
 
 
 #### 2023
++ NCM Workshop on "Hilbert functions and Local Cohomology" held at IIT Bombay. (27th Nov - 2nd Dec)
 + "School and workshop on Commutative Algebra and Algebraic Geometry in Prime Characteristics and Workshop on Commutative Algebra and Algebraic Geometry in Prime Characteristics" held at the International Center for Theoretical Physics, Italy. (2nd May-12th May 2023)
 + "Conference on Commutative Algebra and Algebraic Geometry (CoCAAG-2023)" held at IIT Hyderabad. (8th Feb- 11th Feb)
 
@@ -41,7 +42,7 @@ The following is a list of workshops and conferences that I have attended.
 + "Sagedays 114" held at the Institute of Mathematical Sciences, Chennai. (25th July- 27th July 2022)
 +  NCMWorkshop on "Maximal Cohen-Macaulay Modules" held at CMI, Chennai. (11th July- 17th July 2022)
 +  "Graduate Course on Tight Closure of Ideals and its Applications" held online by the International Centre for Theoretical Physics (ICTP), Italy. (16th May- 25th July 2022)
-+ NCMWorkshop on "Intersection Theory" held at IIT Bombay. (2nd May- 13th May 2022)
++ NCM Workshop on "Intersection Theory" held at IIT Bombay. (2nd May- 13th May 2022)
 
 
 #### upto 2021 
