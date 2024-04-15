@@ -21,6 +21,9 @@ showToc: false
 ---
 ### Research Visits
 
++ 2023 June : IIT Bombay
+
++ 2024 April - June : Politecnico Di Torino, Italy
 ---
 ### Workshops/Conferences
 The following is a list of workshops and conferences that I have attended.
