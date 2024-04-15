@@ -73,8 +73,8 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:mbhat.math@gmail.com
-        - name: GitHub
-          url: https://github.com/MeghanaBht
+        # - name: GitHub
+        #   url: https://github.com/MeghanaBht
         - name: LinkedIn
           url: https://www.linkedin.com/in/meghanamath
            
