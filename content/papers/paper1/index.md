@@ -25,9 +25,8 @@ cover:
 ---
 
 ##### Abstract
-Let $(A, \m)$ be a Gorenstein local ring, and $\FF =\{F_n \}_{n\in \mathbb{Z}}$ a Hilbert filtration. In this paper, we give a  criterion for Gorensteinness of the associated graded ring of $\FF$ in terms of the Hilbert coefficients of  $\FF
-$ in some cases. As a consequence we recover and extend a result proved in \cite{OWY6}.  Further, we present ring-theoretic properties of the normal tangent cone of the maximal ideal of $A=S/(f)$ where $S=K[\![x_0,x_1,\ldots, x_m]\!]$ is a formal power series ring over an algebraically closed field $K$, and $f=x_0^a-g(x_1,\ldots,x_m)$, where $g$ is a polynomial with $g \in (x_1,\ldots,x_m)^b \setminus (x_1,\ldots,x_m)^{b+1}$, and $a, \, b, \, m$ are integers.
-We show that the normal tangent cone $\overline{G}(\m)$ is Cohen-Macaulay if $A$ is normal and $a \le b$. Moreover, we give a criterion of the Gorensteinness of $\overline{G}(\m)$. 
+Let $(A, \mathfrak{m})$ be a Gorenstein local ring, and $\mathcal{F} =\(F_n \)_{n\in \mathbb{Z}}$ a Hilbert filtration. In this paper, we give a  criterion for Gorensteinness of the associated graded ring of $\mathcal{F}$ in terms of the Hilbert coefficients of  $\mathcal{F}$ in some cases. <!-- As a consequence we recover and extend a result proved in \cite{OWY6}.   --> Further, we present ring-theoretic properties of the normal tangent cone of the maximal ideal of $A=S/(f)$ where $S=K \llbracket x_0,x_1,\ldots, x_m \rrbracket $ is a formal power series ring over an algebraically closed field $K$, and $f=x_0^a-g(x_1,\ldots,x_m)$, where $g$ is a polynomial with $g \in (x_1,\ldots,x_m)^b \setminus (x_1,\ldots,x_m)^{b+1}$, and $a,b, m$ are integers.
+We show that the normal tangent cone $\overline{G}(\mathfrak{m})$ is Cohen-Macaulay if $A$ is normal and $a \le b$. Moreover, we give a criterion of the Gorensteinness of $\overline{G}(\mathfrak{m})$. 
 
 ---
 <!-- 
