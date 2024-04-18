@@ -1,7 +1,7 @@
 ---
 title: "On Gorensteinness of associated graded rings" 
 date: 2024-02-05
-tags: ["keyword 1","keyword 2","keyword 3"]
+# tags: ["keyword 1","keyword 2","keyword 3"]
 author: "  "
 description: "This paper shows things. Published in Journal of algebra February 2024." 
 summary: " " 
@@ -25,10 +25,12 @@ cover:
 ---
 
 ##### Abstract
-
+Let $(A, \m)$ be a Gorenstein local ring, and $\FF =\{F_n \}_{n\in \mathbb{Z}}$ a Hilbert filtration. In this paper, we give a  criterion for Gorensteinness of the associated graded ring of $\FF$ in terms of the Hilbert coefficients of  $\FF
+$ in some cases. As a consequence we recover and extend a result proved in \cite{OWY6}.  Further, we present ring-theoretic properties of the normal tangent cone of the maximal ideal of $A=S/(f)$ where $S=K[\![x_0,x_1,\ldots, x_m]\!]$ is a formal power series ring over an algebraically closed field $K$, and $f=x_0^a-g(x_1,\ldots,x_m)$, where $g$ is a polynomial with $g \in (x_1,\ldots,x_m)^b \setminus (x_1,\ldots,x_m)^{b+1}$, and $a, \, b, \, m$ are integers.
+We show that the normal tangent cone $\overline{G}(\m)$ is Cohen-Macaulay if $A$ is normal and $a \le b$. Moreover, we give a criterion of the Gorensteinness of $\overline{G}(\m)$. 
 
 ---
-
+<!-- 
 ##### Citation
 
 Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. 
@@ -43,7 +45,7 @@ pages = {XXX--YYY},
 title ={Title},
 volume = {Volume},
 year = {Year}}
-```
+``` -->
 
 ---
 
