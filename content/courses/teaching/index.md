@@ -35,15 +35,15 @@ disableAnchoredHeadings: false
 + Linear Algebra
 + Differential Equations - I
 
-#### 2021
-+ 
+<!-- #### 2021
++  -->
 
 ---
 ### Mentorship outside IIT Dharwad
 - I am teaching the students of  outside colleges as a part of PMRF teaching duty. I have taught the following courses/concepts.
     - At Karnataka Science college, Dharwad 
         + Operations research - M.Sc. students (Jan - March 2024)
-        + 
+        + Business Mathematics - B.Sc. students
     - At Y.T.S.S. PU College, Yellapur
         + Introduction to Probability (Decemeber - 2023)    
     - At Mahatma Gandhi Memorial College, Udupi

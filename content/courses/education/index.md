@@ -42,7 +42,7 @@ Mahatma Gandhi Memorial College, Udupi (2016-2019)
 +  National Means-Cum-Merit Scholarship Scheme Examination (NMMS) (2012-2016)
 
 
-### Reading projects
+<!-- ### Reading projects -->
 
 <!-- ### <span style="color:blue">
     Reading Projects
