@@ -1,22 +1,19 @@
 ---
 title: "Visits" 
-# date: 2024-03-24
-url: /course/
-aliases:
-    - /old_url.html
-tags: ["MTTS","Commutative algebra workshops"]
-author: [" "]
-description: "Workshops attended" 
-summary: " "
-cover:
-    # image: "/courses/workshops/workshops.png"
-    # alt: "Figure from course"
-    relative: false
+# date: 2023-09-07
+# tags: ["MTTS","Commutative algebra"] 
+author: [""]
+description: "This is some set of useful links related to Mathematics."
+summary: "Here is a list of some useful links."
+# cover:
+    # image: "/data1.png"
+    # alt: "Figure caption"
+    # relative: false
 editPost:
-    # URL: "https://youtube.com/course_playlist"
-    # Text: "YouTube playlist"
-disableAnchoredHeadings: false
+    # URL: "https://github.com/pmichaillat/squareroot-uv"
+    # Text: "GitHub repository"
 showToc: false
+disableAnchoredHeadings: false
 
 ---
 ### Research Visits
