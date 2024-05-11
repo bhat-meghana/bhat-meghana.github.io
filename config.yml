@@ -14,12 +14,18 @@ menu:
         - name: Papers
           url: papers/
           weight: 1
+        - name: Education
+          url: education/
+          weight: 2 
+        - name: Teaching
+          url: teaching/
+          weight: 3  
         - name: Academics
           url: courses/
-          weight: 2
+          weight: 4
         - name: Links
           url: data/
-          weight: 3 
+          weight: 5
 
 
 params:
@@ -60,6 +66,10 @@ params:
           buttons:
             - name: Papers
               url: papers/
+            - name: Education
+              url: education/ 
+            - name: Teaching
+              url: teaching/   
             - name: Academics
               url: courses/
             - name: Links
