@@ -19,10 +19,13 @@ menu:
           weight: 2 
         - name: Teaching
           url: teaching/
-          weight: 3  
-        - name: Academics
-          url: courses/
-          weight: 4
+          weight: 3 
+        - name: Visits
+          url: visits/
+          weight: 4   
+        # - name: Academics
+        #   url: courses/
+        #   weight: 4
         - name: Links
           url: data/
           weight: 5
@@ -69,9 +72,11 @@ params:
             - name: Education
               url: education/ 
             - name: Teaching
-              url: teaching/   
-            - name: Academics
-              url: courses/
+              url: teaching/
+            - name: Visits
+              url: visits/   
+            # - name: Academics
+            #   url: courses/
             - name: Links
               url: data/
             # - name: Tags
