@@ -9,7 +9,7 @@ The template is documented at https://pascalmichaillat.org/d5/.
 ## Illustration
 
 The website produced by the template can be viewed at https://pascalmichaillat.org/hugo-website/.
-
+<!-- 
 ## Features
 
 + Webpages are organized in three categories, which are available from any page through the menu and from the homepage through buttons: papers, courses, and data.
@@ -76,4 +76,4 @@ The content of this repository is licensed under the terms of the MIT License.
 + [Erling Rennemo Jellum's website](https://erlingrj.github.io) ([source code](https://github.com/erlingrj/erlingrj.github.io))
 + [Yangkeun Yun's website](https://yangkeunyun.github.io) ([source code](https://github.com/yangkeunyun/yangkeunyun.github.io))
 + [Maghfira Ramadhani's website](https://maghfiraer.github.io) ([source code](https://github.com/maghfiraer/maghfiraer.github.io))
-+ [Qiwei He's website](https://www.qiwei-he.com)
++ [Qiwei He's website](https://www.qiwei-he.com) -->
