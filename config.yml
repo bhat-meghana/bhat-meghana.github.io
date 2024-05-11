@@ -27,7 +27,7 @@ menu:
         #   url: courses/
         #   weight: 4
         - name: Links
-          url: data/
+          url: links/
           weight: 5
 
 
@@ -78,7 +78,7 @@ params:
             # - name: Academics
             #   url: courses/
             - name: Links
-              url: data/
+              url: links/
             # - name: Tags
             #   url: tags/
             # - name: Archive

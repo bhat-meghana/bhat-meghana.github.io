@@ -1,6 +1,6 @@
 ---
 title: "Useful Links" 
-date: 2023-09-07
+# date: 2023-09-07
 tags: ["MTTS","Commutative algebra"]
 # author: ["Author Name 1", "Author Name 2", "Author Name 3"]
 description: "This is some set of useful links related to Mathematics."
