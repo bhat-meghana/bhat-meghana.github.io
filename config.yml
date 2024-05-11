@@ -70,8 +70,6 @@ params:
           imageHeight: 160
           imageTitle: Meghana Bhat
           buttons:
-            - name: Home
-              url: /
             - name: Papers
               url: papers/
             - name: Education
