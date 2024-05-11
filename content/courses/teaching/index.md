@@ -1,6 +1,6 @@
 ---
 title: "Teaching" 
-date: 2024-03-24
+# date: 2024-03-24
 tags: [""]
 author: [" "]
 description: "This undergraduate course presents many new things." 

@@ -1,6 +1,6 @@
 ---
 title: "Visits" 
-date: 2024-03-24
+# date: 2024-03-24
 url: /course/
 aliases:
     - /old_url.html
