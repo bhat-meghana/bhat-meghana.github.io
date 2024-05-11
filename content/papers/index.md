@@ -2,7 +2,7 @@
 # title: "On Gorensteinness of associated graded rings" 
 # date: 2024-02-05
 # tags: ["keyword 1","keyword 2","keyword 3"]
-#author: " joint with S. Dubey, S.K. Masuti, T. Okuma, J. K. Verma, K. Watanabe, K. Yoshida "
+# author: " joint with S. Dubey, S.K. Masuti, T. Okuma, J. K. Verma, K. Watanabe, K. Yoshida "
 description: "This paper shows things. Submittted to Journal of algebra February 2024." 
 summary: " " 
 cover:
