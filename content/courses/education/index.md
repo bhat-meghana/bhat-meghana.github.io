@@ -13,7 +13,7 @@ cover:
 #     URL: "https://youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf"
 #     Text: "YouTube playlist"
 showToc: false
-disableAnchoredHeadings: false
+disableAnchoredHeadings: true
 
 ---
 
