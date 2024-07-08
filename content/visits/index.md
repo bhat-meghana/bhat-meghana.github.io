@@ -17,16 +17,16 @@ disableAnchoredHeadings: false
 
 ---
 ### Research Visits
++ 2024 April - June : Politecnico Di Torino, Italy (Prof. Enrico Carlini)
++ 2023 June : IIT Bombay (Prof. Jugal K. Verma)
 
-+ 2023 June : IIT Bombay
 
-+ 2024 April - June : Politecnico Di Torino, Italy
 ---
 ### Talks
-+ Politecnico Di Torino, Italy - [Seminars of Algebra, Algebraic Geometry and their applications](https://drive.google.com/file/d/1Fy0qPpjNLHezgxUrvNpl5WIIx5KbsHnD/view)
-Title: On Gorensteinness of Associated graded rings of filtrations
++ [Seminars of Algebra, Algebraic Geometry and their applications](https://drive.google.com/file/d/1Fy0qPpjNLHezgxUrvNpl5WIIx5KbsHnD/view), Politecnico Di Torino, Italy.
+    Title: On Gorensteinness of Associated graded rings of filtrations
 
-+ IIT Dharwad - [One day symposium on Algebra and Geometry](https://www.iitdh.ac.in/one-day-symposium-algebra-and-geometry-funded-sparc-0)
++ [One day symposium on Algebra and Geometry](https://www.iitdh.ac.in/one-day-symposium-algebra-and-geometry-funded-sparc-0), IIT Dharwad.
 
 ---
 ### Poster Presentations
