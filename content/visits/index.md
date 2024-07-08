@@ -22,10 +22,24 @@ disableAnchoredHeadings: false
 
 + 2024 April - June : Politecnico Di Torino, Italy
 ---
+### Talks
++ Politecnico Di Torino, Italy - [Seminars of Algebra, Algebraic Geometry and their applications](https://drive.google.com/file/d/1Fy0qPpjNLHezgxUrvNpl5WIIx5KbsHnD/view)
+Title: On Gorensteinness of Associated graded rings of filtrations
+
++ IIT Dharwad - [One day symposium on Algebra and Geometry](https://www.iitdh.ac.in/one-day-symposium-algebra-and-geometry-funded-sparc-0)
+
+---
+### Poster Presentations
++ 2024 June : Presented poster "On Gorensteinness of associated graded rings of filtrations" in the International Conference on Local rings and Singularities held at IIT Bombay.
+
+---
 ### Workshops/Conferences
 The following is a list of workshops and conferences that I have attended.
 #### 2024
-+ "Connections workshop: commutative algebra" held at SL Math institute Berkeley, California USA (22nd Jan -26th Jan 2024)
++ NCM Workshop on "Recent Trends in Commutative Algebra" held at IIT Bomby. (17th June - 22nd June)
++ "International Conference on Local rings and Singularities" held at IIT Bombay. (13th June -15th June)
+
++ "Connections workshop: commutative algebra" held at SL Math institute Berkeley, California USA. (22nd Jan -26th Jan 2024)
 
 
 #### 2023
