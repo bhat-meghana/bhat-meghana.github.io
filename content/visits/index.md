@@ -17,8 +17,8 @@ disableAnchoredHeadings: false
 
 ---
 ### Research Visits
-+ 2024 April - June : Politecnico Di Torino, Italy (Prof. Enrico Carlini)
-+ 2023 June : IIT Bombay (Prof. Jugal K. Verma)
++ 2024 April - June : Politecnico Di Torino, Italy (hosted by Prof. Enrico Carlini)
++ 2023 June : IIT Bombay (hosted by Prof. Jugal K. Verma)
 
 
 ---
