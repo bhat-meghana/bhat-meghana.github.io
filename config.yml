@@ -64,7 +64,12 @@ params:
           title: Meghana Bhat
           subtitle: "I'm a PhD student in Mathematics at the Indian Institute of Technology Dharwad. 
                     My research interest is in Commutative algebra. In particular, 
-                    I work on problems related to Hilbert functions."
+                    I work on problems related to Hilbert functions.
+                    <br> 
+                    <br>
+                    Contact: mbhat.math@gmail.com
+                    <br>
+                    Office: 530, A2 Science Block, IIT Dharwad"
           imageUrl: "profile_picture.jpeg"
           imageWidth: 160
           imageHeight: 160
