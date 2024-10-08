@@ -23,7 +23,7 @@ disableAnchoredHeadings: false
 
 ---
 ### Talks
-+ [Seminars of Algebra, Algebraic Geometry and their applications](https://drive.google.com/file/d/1Fy0qPpjNLHezgxUrvNpl5WIIx5KbsHnD/view), Politecnico Di Torino, Italy.
++ [Seminars of Algebra, Algebraic Geometry and their applications](https://drive.google.com/file/d/1Fy0qPpjNLHezgxUrvNpl5WIIx5KbsHnD/view), Politecnico Di Torino, Italy. April 2024
     Title: On Gorensteinness of Associated graded rings of filtrations
 
 + [One day symposium on Algebra and Geometry](https://www.iitdh.ac.in/one-day-symposium-algebra-and-geometry-funded-sparc-0), IIT Dharwad.
