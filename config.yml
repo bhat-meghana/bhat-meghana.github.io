@@ -93,7 +93,7 @@ params:
             #   url: archive/
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: https://www.dropbox.com/scl/fi/q7f9awo81bi4ojvpo0hrn/CV_Meghana.pdf?rlkey=hcs081uuwipuikz8z8uqlvbug&dl=0
         - name: Email
           url: mailto:mbhat.math@gmail.com
         # - name: GitHub
