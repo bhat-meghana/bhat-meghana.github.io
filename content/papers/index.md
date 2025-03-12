@@ -16,9 +16,10 @@ cover:
 
 
 ---
+![A view of River Po from Turin!](/content/papers/Po%20river.jpg "River Po")
 ## Preprints
 <ol>
-<li><em><strong>"On Gorensteinness of associated graded rings of filtrations"</strong></em><font size="3">[with S. Dubey, S.K. Masuti, T. Okuma, J. K. Verma, K. Watanabe, K. Yoshida]. 2024 Available at https://arxiv.org/abs/2404.14189 </li>
+<li><em><strong>"On Gorensteinness of associated graded rings of filtrations"</strong></em><font size="3"> [with S. Dubey, S.K. Masuti, T. Okuma, J. K. Verma, K. Watanabe, K. Yoshida]. 2024 Available at https://arxiv.org/abs/2404.14189 </li>
 
 <li><em><font size="4"><strong>"Symmetric decomposition of the Hilbert functions of ideal"</strong></em> <font size="3">[with S. Dubey, S.K. Masuti]. In preparation, 2025 </li>
 
