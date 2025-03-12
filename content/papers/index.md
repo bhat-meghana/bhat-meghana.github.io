@@ -17,11 +17,11 @@ cover:
 
 ---
 ## Preprints
-+ "On Gorensteinness of associated graded rings of filtrations" [with S. Dubey, S.K. Masuti, T. Okuma, J. K. Verma, K. Watanabe, K. Yoshida]. 2024 Available at https://arxiv.org/abs/2404.14189
++ "On Gorensteinness of associated graded rings of filtrations" <font size="3">[with S. Dubey, S.K. Masuti, T. Okuma, J. K. Verma, K. Watanabe, K. Yoshida]. 2024 Available at https://arxiv.org/abs/2404.14189
 
-+ "Symmetric decomposition of the Hilbert functions of any ideal" [with S. Dubey, S.K. Masuti]. In preparation, 2025
++ <font size="4">"Symmetric decomposition of the Hilbert functions of any ideal" <font size="3">[with S. Dubey, S.K. Masuti]. In preparation, 2025
 
-+ "Apolar sets of some reducible forms" [with E. Carlini, S. Dubey, S.K. Masuti]. In preparation, 2025
++ <font size="4">"Apolar sets of some reducible forms" <font size="3">[with E. Carlini, S. Dubey, S.K. Masuti]. In preparation, 2025
 
 
 <!-- ##### Download
