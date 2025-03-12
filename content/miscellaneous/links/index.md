@@ -1,5 +1,5 @@
 ---
-title: "Useful Links" 
+title: "Links" 
 # date: 2023-09-07
 # tags: ["MTTS","Commutative algebra"] 
 author: [""]

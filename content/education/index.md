@@ -18,22 +18,22 @@ disableAnchoredHeadings: true
 ---
 
 ### Ph.D. Mathematics
-Indian Institute of Technology Dharwad (July 2021 - present)
+<em> Indian Institute of Technology Dharwad (July 2021 - present)</em>
 - Advisor : Dr. Shreedevi Masuti
 - Research area : Commutative algebra
 
 ---
 
 ### Master of Science Mathematics
-Pondicherry University, Pondicherry (2019-2021)
+<em> Pondicherry University, Pondicherry (2019-2021)</em>
 
 ---
 
 ### Bachelor of Science (Physics, Mathematics, Statistics)
-Mahatma Gandhi Memorial College, Udupi (2016-2019)
+<em> Mahatma Gandhi Memorial College, Udupi (2016-2019)</em>
 
 ---
-## SCHOLARSHIPS/ACHIEVEMENTS
+## Scholarships/Achievements
 
 + Prime Minister's Research Fellowship (PMRF) 2022
 + Qualified GATE-2021, CSIR NET June 2021

@@ -29,10 +29,16 @@ menu:
         # - name: Academics
         #   url: courses/
         #   weight: 4
-        - name: Links
-          url: links/
+        - name: Miscellaneous
+          url: miscellaneous/
           weight: 6
-
+          children:  # This defines the sub-pages under Miscellaneous
+            - name: Links
+              url: miscellaneous/links/  # You can adjust the URL as needed
+              weight: 1
+            - name: Frozen Moments
+              url: miscellaneous/musings/  # You can adjust the URL as needed
+              weight: 2
 
 params:
     description: "I'm a PhD student in Mathematics at the Indian Institute of Technology Dharwad.
@@ -62,8 +68,8 @@ params:
     profileMode:
           enabled: true
           title: Meghana Bhat
-          subtitle: "I'm a PhD student in Mathematics at the Indian Institute of Technology Dharwad. 
-                    My advisor is Prof. Shreedevi Masuti. My research interest is in Commutative algebra. In particular, I work on problems related to Hilbert functions, and Waring rank.
+          subtitle: "I'm a PhD student in Mathematics at the *Indian Institute of Technology Dharwad*. 
+                    My advisor is Prof. Shreedevi Masuti. My research interest is in *Commutative algebra*. In particular, I work on problems related to *Hilbert functions*, and *Waring rank of forms*.
 
                     <br> 
                     <br>
@@ -85,8 +91,8 @@ params:
               url: visits/   
             # - name: Academics
             #   url: courses/
-            - name: Links
-              url: links/
+            - name: Miscellaneous
+              url: miscellaneous/
             # - name: Tags
             #   url: tags/
             # - name: Archive
