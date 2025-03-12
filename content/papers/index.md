@@ -20,13 +20,13 @@ cover:
 <ol>
 <li><em><strong>"On Gorensteinness of associated graded rings of filtrations"</strong></em><font size="3"> [with S. Dubey, S.K. Masuti, T. Okuma, J. K. Verma, K. Watanabe, K. Yoshida]. 2024 Available at https://arxiv.org/abs/2404.14189 </li>
 
-<li><em><font size="4"><strong>"Symmetric decomposition of the Hilbert functions of ideal"</strong></em> <font size="3">[with S. Dubey, S.K. Masuti]. In preparation, 2025 </li>
+<li><em><font size="4"><strong>"Symmetric decomposition of the Hilbert function of an ideal"</strong></em> <font size="3">[with S. Dubey, S.K. Masuti]. In preparation, 2025 </li>
 
 <li> <em><font size="4"><strong>"Apolar sets of some reducible forms" </strong></em><font size="3">[with E. Carlini, S. Dubey, S.K. Masuti]. In preparation, 2025 </li>
 </ol>
 <figure>
 <img src="Po%20river.jpg" alt="A view of River Po from Turin" width="800" height="300">
-<figcaption style="font-weight: normal; text-align: center;">A view of River Po from Turin, Italy</figcaption>
+<figcaption style="font-weight: normal; font-style: italic; text-align: center;">A view of River Po from Turin, Italy</figcaption>
 </figure>
 <!-- ##### Download
 
