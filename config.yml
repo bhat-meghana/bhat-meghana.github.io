@@ -99,14 +99,13 @@ params:
             #   url: archive/
     socialIcons:
         - name: CV
-          url: https://www.dropbox.com/scl/fi/q7f9awo81bi4ojvpo0hrn/CV_Meghana.pdf?rlkey=hcs081uuwipuikz8z8uqlvbug&dl=0
+          url: <embed src="https://drive.google.com/file/d/1Jwz6Hqx0jGf9El_Yoim0qFJTNAJ77CWN/view?usp=sharing" width="500" height="375">
         - name: Email
           url: mailto:mbhat.math@gmail.com
         # - name: GitHub
         #   url: https://github.com/MeghanaBht
         - name: LinkedIn
           url: https://www.linkedin.com/in/meghanamath
-           
 
     assets:
         disableHLJS: true
