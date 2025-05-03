@@ -99,7 +99,7 @@ params:
             #   url: archive/
     socialIcons:
         - name: CV
-          url: <embed src="https://drive.google.com/file/d/1Jwz6Hqx0jGf9El_Yoim0qFJTNAJ77CWN/view?usp=sharing" width="500" height="375">
+          url: https://drive.google.com/file/d/1Jwz6Hqx0jGf9El_Yoim0qFJTNAJ77CWN/view?usp=sharing
         - name: Email
           url: mailto:mbhat.math@gmail.com
         # - name: GitHub
