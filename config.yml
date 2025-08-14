@@ -1,6 +1,7 @@
 baseURL: "https://bhat-meghana.github.io/" 
 title: Meghana Bhat
-paginate: 20
+pagination:
+  pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -14,8 +15,8 @@ menu:
         - name: Home
           url: /
           weight: 1
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: research/
           weight: 2
         - name: Education
           url: education/
@@ -49,7 +50,7 @@ params:
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -69,20 +70,20 @@ params:
           enabled: true
           title: Meghana Bhat
           subtitle: "I'm a PhD student in Mathematics at the *Indian Institute of Technology Dharwad*. 
-                    My advisor is Prof. Shreedevi Masuti. My research interest is in *Commutative algebra*. In particular, I work on problems related to *Hilbert functions*, and *Waring rank of forms*.
+                     My research interest is in *Commutative algebra*. In particular, I work on problems related to *Hilbert functions*, and *Waring rank of forms*.
 
                     <br> 
                     <br>
                     Contact: mbhat.math@gmail.com
                     <br>
-                    Office: 530, A2 Science Block, IIT Dharwad"
+                    Office: 603, A2 Science Block, IIT Dharwad"
           imageUrl: "profile_picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Meghana Bhat
           buttons:
             - name: Research
-              url: papers/
+              url: research/
             - name: Education
               url: education/ 
             - name: Teaching
@@ -99,7 +100,7 @@ params:
             #   url: archive/
     socialIcons:
         - name: CV
-          url: https://drive.google.com/file/d/1Jwz6Hqx0jGf9El_Yoim0qFJTNAJ77CWN/view?usp=sharing
+          url: /20250501.pdf
         - name: Email
           url: mailto:mbhat.math@gmail.com
         # - name: GitHub
