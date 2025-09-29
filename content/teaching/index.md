@@ -17,7 +17,16 @@ disableAnchoredHeadings: false
 
 ---
 ### Teaching Assistantship for B.Tech courses at IIT Dharwad
-#### 2024
+##### Autumn
++ Calculus (2025, 2023)
++ Complex analysis (2025, 2023)
+##### Spring
++ Statistics (2025)
++ Linear Algebra (2024, 2023, 2022)
++ Differential Equations - II (2022)
++ Differential Equations - I (2024)
+
+<!-- #### 2024
 ##### Spring
 + Linear Algebra
 + Differential Equations - I
@@ -33,13 +42,14 @@ disableAnchoredHeadings: false
 #### 2022
 ##### Spring
 + Linear Algebra
-+ Differential Equations - I
++ Differential Equations - I -->
 
 <!-- #### 2021
 +  -->
 
 ---
 ### Mentorship outside IIT Dharwad
+- Mentor for the Online Foundation Course in Mathematics held online by MTTS (OFCM-2025), (OFCM-2023) and (OFCM-2020).
 - I am teaching the students of  outside colleges as a part of PMRF teaching duty. I have taught the following courses/concepts.
     - At Karnataka Science college, Dharwad 
         + Operations research - M.Sc. students (Jan - March 2024)
@@ -48,4 +58,3 @@ disableAnchoredHeadings: false
         + Introduction to Probability (Decemeber - 2023)    
     - At Mahatma Gandhi Memorial College, Udupi
         + Introduction to Group Theory (March 2023)    
-- Mentor for the Online Foundation Course in Mathematics held online by MTTS (OFCM-2020) and (OFCM-2023).

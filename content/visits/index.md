@@ -31,13 +31,19 @@ disableAnchoredHeadings: false
 
 ---
 ### Poster Presentations
++ 2025 July : Presented poster on "Symmetric decomposition of the Hilbert function of an ideal" in the International conference on commutative algebra to the memory of Jürgen Herzog, VIASM Hanoi, Vietnam, July 2025.
+
++ 2025 June : Presented poster on "Apolar sets of some reducible forms" in the International conference on Modules and Rings: Recent Developments in Commutative Algebra, University of Genoa, Italy, June 2025.
+
 + 2024 June : Presented poster "On Gorensteinness of associated graded rings of filtrations" in the International Conference on Local rings and Singularities held at IIT Bombay.
 
 ---
 ### Workshops/Conferences
 The following is a list of workshops and conferences that I have attended.
+#### 2025
++ NCM Workshop on "Recenet Developements in Commutative Algebra" held at IIT Dharwad (24th June - 29th June)
 #### 2024
-+ NCM Workshop on "Recent Trends in Commutative Algebra" held at IIT Bomby. (17th June - 22nd June)
++ NCM Workshop on "Recent Trends in Commutative Algebra" held at IIT Bombay. (17th June - 22nd June)
 + "International Conference on Local rings and Singularities" held at IIT Bombay. (13th June -15th June)
 
 + "Connections workshop: commutative algebra" held at SL Math institute Berkeley, California USA. (22nd Jan -26th Jan 2024)

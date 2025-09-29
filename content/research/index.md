@@ -18,11 +18,14 @@ cover:
 ---
 ## Preprints
 <ol>
-<li><em><strong>"On Gorensteinness of associated graded rings of filtrations"</strong></em><font size="3"> [with S. Dubey, S.K. Masuti, T. Okuma, J. K. Verma, K. Watanabe, K. Yoshida]. Available at [arXiv:2404.14189], 2025 </li>
+<li> <em><font size="4"><strong>"Waring rank of quasi-monomial complete intersections" </strong></em><font size="3">[with E. Carlini, S.K. Masuti]. In preparation, 2025 </li>
+
+<li> <em><font size="4"><strong>"Apolar sets of some reducible forms" </strong></em><font size="3">[with E. Carlini, S. Dubey, S.K. Masuti]. In preparation, 2025 </li>
 
 <li><em><font size="4"><strong>"Symmetric decomposition of the Hilbert function of an ideal"</strong></em> <font size="3">[with S. Dubey, S.K. Masuti]. Available at [arXiv:2503:21173v1], 2025</li>
 
-<li> <em><font size="4"><strong>"Apolar sets of some reducible forms" </strong></em><font size="3">[with E. Carlini, S. Dubey, S.K. Masuti]. In preparation, 2025 </li>
+<li><em><strong>"On Gorensteinness of associated graded rings of filtrations"</strong></em><font size="3"> [with S. Dubey, S.K. Masuti, T. Okuma, J. K. Verma, K. Watanabe, K. Yoshida]. Available at [arXiv:2404.14189], 2025 </li>
+
 </ol>
 <figure>
 <img src="Po%20river.jpg" alt="A view of River Po from Turin" width="800" height="300">
