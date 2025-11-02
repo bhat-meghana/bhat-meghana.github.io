@@ -37,7 +37,7 @@ menu:
             - name: Links
               url: miscellaneous/links/  # You can adjust the URL as needed
               weight: 1
-            - name: Frozen Moments
+            - name: Photo Album
               url: miscellaneous/musings/  # You can adjust the URL as needed
               weight: 2
 
@@ -71,7 +71,10 @@ params:
           title: Meghana Bhat
           subtitle: "I'm a PhD student in Mathematics at the *Indian Institute of Technology Dharwad*. 
                      My research interest is in *Commutative algebra and Algebraic Geometry*. In particular, I work on problems related to *Hilbert functions*, and *Waring rank of forms*.
-
+                    <br>
+                    <br>
+                    I am grateful to my thesis advisor is Prof. Shreedevi Masuti for introducing me this area of research and for her guidance. Since November 2022, I am a Prime Minister's Research Fellow. Funding from PMRF has been instrumental in my research journey.
+                    I am also a visiting research student at the Polytecnico Di Torino, Italy, under the mentorship of [Prof. Enrico Carlini](https://www.polito.it/personale?p=enrico.carlini).
                     <br> 
                     <br>
                     Contact: mbhat.math@gmail.com

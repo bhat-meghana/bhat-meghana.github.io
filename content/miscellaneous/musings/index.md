@@ -1,10 +1,10 @@
 ---
-title: "Frozen Moments" 
+title: "Photo Album" 
 # date: 2023-09-07
 # tags: ["MTTS","Commutative algebra"] 
 author: [""]
-description: "This is a collection of moments I've captured through my phone over the years. Each photo is a memory, a piece of my journey, and a reflection of how I see the world."
-summary: "This is a collection of moments I've captured through my phone over the years. Each photo is a memory, a piece of my journey, and a reflection of how I see the world."
+description: "This is a collection of moments I've captured through my phone over the years. Each photo is a memory, a piece of my journey. Some of them are reflection of how I see the world."
+summary: "This is a collection of moments I've captured through my phone over the years. Each photo is a memory, a piece of my journey."
 # cover:
     # image: "/data1.png"
     # alt: "Figure caption"
