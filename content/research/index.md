@@ -20,7 +20,7 @@ cover:
 <ol>
 <li> <em><font size="4"><strong>"Waring rank of quasi-monomial complete intersections" </strong></em><font size="3">[with E. Carlini, S.K. Masuti]. In preparation, 2025 </li>
 
-<li> <em><font size="4"><strong>"Apolar sets of some reducible forms" </strong></em><font size="3">[with E. Carlini, S. Dubey, S.K. Masuti]. In preparation, 2025 </li>
+<li> <em><font size="4"><strong>"Waring decompositions of the product of two quadrics]{Waring decompositions of the product of two quadrics: the small rank cases" </strong></em><font size="3">[with E. Carlini, S. Dubey, S.K. Masuti]. In preparation, 2025 </li>
 
 <li><em><font size="4"><strong>"Symmetric decomposition of the Hilbert function of an ideal"</strong></em> <font size="3">[with S. Dubey, S.K. Masuti]. Available at <a href="https://arxiv.org/html/2503.21173v1#S1">arXiv:2503:21173v1</a>, 2025</li>
 
