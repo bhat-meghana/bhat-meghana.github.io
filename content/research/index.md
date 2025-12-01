@@ -20,11 +20,11 @@ cover:
 <ol>
 <li> <em><font size="4"><strong>"Waring rank of quasi-monomial complete intersections" </strong></em><font size="3">[with E. Carlini, S.K. Masuti]. In preparation, 2025 </li>
 
-<li> <em><font size="4"><strong>"Waring decompositions of the product of two quadrics: the small rank cases" </strong></em><font size="3">[with E. Carlini, S. Dubey, S.K. Masuti]. In preparation, 2025 </li>
+<li> <em><font size="4"><strong>"Waring decompositions of the product of two quadrics: the small rank cases" </strong></em><font size="3">[with E. Carlini, S. Dubey, S.K. Masuti]. Available at <a href="https://arxiv.org/pdf/2511.23035">arXiv:2511.23035</a>, 2025 </li>
 
-<li><em><font size="4"><strong>"Symmetric decomposition of the Hilbert function of an ideal"</strong></em> <font size="3">[with S. Dubey, S.K. Masuti]. Available at <a href="https://arxiv.org/html/2503.21173v1#S1">arXiv:2503:21173v1</a>, 2025</li>
+<li><em><font size="4"><strong>"Symmetric decomposition of the Hilbert function of an ideal"</strong></em> <font size="3">[with S. Dubey, S.K. Masuti]. Available at <a href="https://arxiv.org/pdf/2503.21173">arXiv:2503:21173</a>, 2025</li>
 
-<li><em><strong>"On Gorensteinness of associated graded rings of filtrations"</strong></em><font size="3"> [with S. Dubey, S.K. Masuti, T. Okuma, J. K. Verma, K. Watanabe, K. Yoshida]. Available at <a href="https://arxiv.org/abs/2404.14189">arXiv:2404.14189</a>, 2024</li>
+<li><em><strong>"On Gorensteinness of associated graded rings of filtrations"</strong></em><font size="3"> [with S. Dubey, S.K. Masuti, T. Okuma, J. K. Verma, K. Watanabe, K. Yoshida]. Available at <a href="https://arxiv.org/pdf/2404.14189">arXiv:2404.14189</a>, 2024</li>
 
 </ol>
 <figure>
