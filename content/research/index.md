@@ -24,7 +24,7 @@ cover:
 
 <li><em><font size="4"><strong>"Symmetric decomposition of the Hilbert function of an ideal"</strong></em> <font size="3">[with S. Dubey, S.K. Masuti]. Submitted. <a href="https://arxiv.org/pdf/2503.21173">arXiv:2503:21173</a>, 2025</li>
 
-<li><em><strong>"On Gorensteinness of associated graded rings of filtrations"</strong></em><font size="3"> [with S. Dubey, S.K. Masuti, T. Okuma, J. K. Verma, K. Watanabe, K. Yoshida]. Accepted. <a href="https://arxiv.org/pdf/2404.14189">arXiv:2404.14189</a>, 2024</li>
+<li><em><strong>"On Gorensteinness of associated graded rings of filtrations"</strong></em><font size="3"> [with S. Dubey, S.K. Masuti, T. Okuma, J. K. Verma, K. Watanabe, K. Yoshida]. Accepted for publication in communications in algebra. <a href="https://arxiv.org/pdf/2404.14189">arXiv:2404.14189</a>, 2024</li>
 
 </ol>
 <figure>

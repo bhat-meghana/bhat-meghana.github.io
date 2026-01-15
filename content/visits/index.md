@@ -17,8 +17,7 @@ disableAnchoredHeadings: false
 
 ---
 ### Research Visits
-+ 2025 April - June : Politecnico Di Torino, Italy (hosted by Prof. Enrico Carlini)
-+ 2024 April - June : Politecnico Di Torino, Italy (hosted by Prof. Enrico Carlini)
++ 2025 November-December, April - June; 2024 April - June : Politecnico Di Torino, Italy (hosted by Prof. Enrico Carlini)
 + 2023 June : IIT Bombay (hosted by Prof. Jugal K. Verma)
 
 
@@ -31,9 +30,11 @@ disableAnchoredHeadings: false
 
 ---
 ### Poster Presentations
-+ 2025 July : Presented poster on "Symmetric decomposition of the Hilbert function of an ideal" in the International conference on commutative algebra to the memory of Jürgen Herzog, VIASM Hanoi, Vietnam, July 2025.
++ 2026 January : Presented poster on "Waring decomposition of binomials whose annihilator is a complete intersection" in the Indo-European conference on Mathematics, Pune, India.   <a href="/Pune.pdf">Poster PDF.</a></font>
 
-+ 2025 June : Presented poster on "Apolar sets of some reducible forms" in the International conference on Modules and Rings: Recent Developments in Commutative Algebra, University of Genoa, Italy, June 2025.
++ 2025 July : Presented poster on "Symmetric decomposition of the Hilbert function of an ideal" in the International conference on commutative algebra to the memory of Jürgen Herzog, VIASM Hanoi, Vietnam.
+
++ 2025 June : Presented poster on "Apolar sets of some reducible forms" in the International conference on Modules and Rings: Recent Developments in Commutative Algebra, University of Genoa, Italy.  <a href="/Genoa.pdf">Poster PDF.</a></font>
 
 + 2024 June : Presented poster "On Gorensteinness of associated graded rings of filtrations" in the International Conference on Local rings and Singularities held at IIT Bombay.
 
