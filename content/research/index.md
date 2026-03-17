@@ -18,7 +18,7 @@ cover:
 ---
 ## Preprints
 <ol>
-<li> <em><font size="4"><strong>"Waring rank of quasi-monomial complete intersections" </strong></em><font size="3">[with E. Carlini, S.K. Masuti]. In preparation, 2026. <a href="/Pune.pdf">Poster PDF.</a></font> </li>
+<li> <em><font size="4"><strong>"Waring rank of quasi-monomial complete intersections" </strong></em><font size="3">[with E. Carlini, S.K. Masuti]. In preparation, 2026. 
 
 <li> <em><font size="4"><strong>"Waring decompositions of the product of two quadrics: the small rank cases" </strong></em><font size="3">[with E. Carlini, S. Dubey, S.K. Masuti]. Submitted. <a href="https://arxiv.org/pdf/2511.23035">arXiv:2511.23035</a>, 2025. <a href="/Genoa.pdf">Poster PDF.</a></font> </li>
 
