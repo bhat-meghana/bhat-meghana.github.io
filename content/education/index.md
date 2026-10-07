@@ -18,7 +18,7 @@ disableAnchoredHeadings: true
 ---
 
 ### Ph.D. Mathematics
-<em> Indian Institute of Technology Dharwad (July 2021 - present)</em>
+<em> Indian Institute of Technology Dharwad (July 2021 - July 2026)</em>
 - Advisor : Dr. Shreedevi Masuti
 - Research area : Commutative algebra
 
