@@ -1,0 +1,130 @@
+/* Loaded only by the research-layout shortcode on the Research page. */
+/* Remove viewport-height/clipping rules on the document and page wrappers. */
+html:has(.research-page) {
+  height: auto !important;
+  max-height: none !important;
+  overflow-y: auto !important;
+  scrollbar-width: auto;
+}
+
+body:has(.research-page) {
+  display: block !important;
+  position: static !important;
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+}
+
+.main:has(.research-page),
+.post-single:has(.research-page),
+.post-content:has(.research-page),
+.research-page {
+  display: block !important;
+  position: static !important;
+  inset: auto !important;
+  transform: none !important;
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+}
+
+.research-page {
+  min-width: 0;
+  width: min(100%, 1100px);
+  max-width: 1100px;
+  margin: 0 auto;
+  overflow-wrap: anywhere;
+}
+
+.research-page ul,
+.research-page ol,
+.research-page li {
+  max-width: 100%;
+}
+
+/* Existing HTML containers must expand with the publication list. */
+.research-page :where(div, section, article) {
+  position: static !important;
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+}
+
+.research-page li + li {
+  margin-top: 1rem;
+}
+
+/* This figure is placed AFTER all papers in the source file. */
+.research-page .research-photo {
+  display: block !important;
+  position: static !important;
+  inset: auto !important;
+  float: none !important;
+  clear: both;
+  transform: none !important;
+  width: 100%;
+  max-width: 100%;
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+  margin: 2rem auto 0;
+}
+
+.research-page .research-photo img {
+  display: block !important;
+  position: static !important;
+  inset: auto !important;
+  float: none !important;
+  transform: none !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  max-height: none !important;
+  object-fit: contain;
+  margin: 0 auto;
+}
+
+.research-page .research-photo figcaption {
+  position: static !important;
+  margin-top: 0.5rem;
+  text-align: center;
+  font-size: 0.9em;
+  color: var(--secondary);
+}
+
+/* Neutralize Research page typography and links to avoid purple underlines. */
+.research-page,
+.research-page * {
+  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif !important;
+  color: #1f1f1f !important;
+}
+
+.research-page a,
+.research-page a:visited,
+.research-page a:hover,
+.research-page a:active,
+.research-page a:focus,
+.research-page .post-content a,
+.research-page .post-content a:visited,
+.research-page .post-content a:hover,
+.research-page .post-content a:active,
+.research-page .post-content a:focus {
+  color: #1f1f1f !important;
+  text-decoration: none !important;
+  text-decoration-line: none !important;
+  text-decoration-color: transparent !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.research-page a:hover {
+  opacity: 0.8;
+}
+
+.research-page strong,
+.research-page em,
+.research-page b,
+.research-page i {
+  color: inherit !important;
+}

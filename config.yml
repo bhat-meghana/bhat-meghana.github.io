@@ -27,9 +27,6 @@ menu:
         - name: Visits
           url: visits/
           weight: 5  
-        # - name: Academics
-        #   url: courses/
-        #   weight: 4
         - name: Miscellaneous
           url: miscellaneous/
           weight: 6
@@ -45,8 +42,7 @@ params:
     description: "I'm a PhD student in Mathematics at the Indian Institute of Technology Dharwad.
                   My research interest is in Commutative algebra. In particular, 
                   I work on problems related to Hilbert functions."
-    author: Name
-    # googleAnalyticsID: "G-XXXXX"
+    author: "Meghana Bhat"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -69,19 +65,19 @@ params:
     profileMode:
           enabled: true
           title: Meghana Bhat
-          subtitle: "I received my PhD in Mathematics from <a href='https://www.iitdh.ac.in' style='color: navy;'>Indian Institute of Technology Dharwad</a> in July 2026. 
-                     My research interest is in <i style='color: navy;'>Commutative algebra and Algebraic Geometry</i>. In particular, I work on problems related to <i style='color: navy;'>Hilbert functions</i>, and <i style='color: navy;'>Waring rank of forms</i>.
+          subtitle: "I am a Research Fellow(PostDoc) hosted by <a href='https://sites.google.com/view/pduttashomepage' style='color: navy;'>Prof. Pranjal Dutta</a> in the College of Computing and Data Science(CCDS) at the Nanyang Technological University(NTU), Singapore. 
+                    <br>
+                     My research interest is in <i style='color: navy;'>Commutative algebra and Algebraic Geometry</i> and its applications to other fields like <i style='color: navy;'>Algebraic Complexity Theory</i>. In particular, I have worked on problems related to <i style='color: navy;'>Hilbert functions</i>, and <i style='color: navy;'>Waring rank of forms</i>.
                     <br>
                     <br>
-                    I am grateful to my thesis advisor is <a href='https://www.iitdh.ac.in/user-profile/shreedevi-masuti' style='color: navy;'>Prof. Shreedevi Masuti</a> for introducing me this area of research and for her guidance. Since November 2022, I am a Prime Minister's Research Fellow. Funding from PMRF has been instrumental in my research journey.
-                    I am also a SPARC visiting research student at the Politecnico Di Torino, Italy, under the mentorship of <a href='https://www.polito.it/personale?p=enrico.carlini' style='color: navy;'>Prof. Enrico Carlini</a>.
+                    I received my PhD in Mathematics from <a href='https://www.iitdh.ac.in' style='color: navy;'>Indian Institute of Technology Dharwad</a> in July 2026. 
+                    My Ph.D. thesis advisor was <a href='https://www.iitdh.ac.in/user-profile/shreedevi-masuti' style='color: navy;'>Prof. Shreedevi Masuti</a>. 
+                    I was also a SPARC visiting research student at the Politecnico Di Torino, Italy, under the mentorship of <a href='https://www.polito.it/personale?p=enrico.carlini' style='color: navy;'>Prof. Enrico Carlini</a>.
+                    During my Ph.D., I was a <a href='/PMRFCerti.pdf' target='_blank' rel='noopener noreferrer' style='color: navy;'>Prime Minister's Research Fellow</a>. Funding from PMRF has been instrumental in my research journey.
                     <br>
                     <br>
-                    Contact: mbhat.math@gmail.com, ma21dpf01@iitdh.ac.in
-                    <br>
-                    Office: --
-                    <br>
-                    Currently looking for postdoctoral positions in Commutative Algebra and Algebraic Geometry. I am also open to work on problems related to Waring rank of forms, Hilbert functions or any other problem that sounds interesting."
+                    Contact: mbhat.math@gmail.com, meghana.bhat@ntu.edu.sg
+                    <br>"
           imageUrl: "profile_picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -95,21 +91,13 @@ params:
               url: teaching/
             - name: Visits
               url: visits/   
-            # - name: Academics
-            #   url: courses/
             - name: Miscellaneous
               url: miscellaneous/
-            # - name: Tags
-            #   url: tags/
-            # - name: Archive
-            #   url: archive/
     socialIcons:
         - name: CV
           url: /20260325.pdf
         - name: Email
           url: mailto:mbhat.math@gmail.com
-        # - name: GitHub
-        #   url: https://github.com/MeghanaBht
         - name: LinkedIn
           url: https://www.linkedin.com/in/meghanamath
 

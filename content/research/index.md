@@ -16,21 +16,23 @@ cover:
 
 
 ---
+
+{{< research-layout >}}
+
+<div class="research-page">
+
 ## Preprints
 <ol>
-<li> <em><font size="4"><strong>"Waring rank of quasi-monomial complete intersections and certain binomials" </strong></em><font size="3">[with E. Carlini, S.K. Masuti]. In preparation, 2026. 
+<li><strong>"Waring rank of quasi-monomial complete intersections and certain binomials"</strong> [with E. Carlini, S.K. Masuti]. In preparation, 2026.
 
-<li> <em><font size="4"><strong>"Waring decompositions of the product of two quadrics: the small rank cases" </strong></em><font size="3">[with E. Carlini, S. Dubey, S.K. Masuti]. Linear algebra and its applications, 130-164. <a href="https://www.sciencedirect.com/science/article/pii/S0024379526002788">DOI:10.1016/j.laa.2026.06.027</a>, 2026. <a href="/Genoa.pdf">Poster PDF.</a></font> </li>
+<li><strong>"Waring decompositions of the product of two quadrics: the small rank cases"</strong> [with E. Carlini, S. Dubey, S.K. Masuti]. Linear algebra and its applications, 130-164. <a href="https://www.sciencedirect.com/science/article/pii/S0024379526002788">DOI:10.1016/j.laa.2026.06.027</a>, 2026. <a href="/Genoa.pdf">Poster PDF.</a></li>
 
-<li><em><font size="4"><strong>"Symmetric decomposition of the Hilbert function of an ideal"</strong></em> <font size="3">[with S. Dubey, S.K. Masuti]. Submitted. <a href="https://arxiv.org/pdf/2503.21173">arXiv:2503:21173</a>, 2025.</li>
+<li><strong>"Symmetric decomposition of the Hilbert function of an ideal"</strong> [with S. Dubey, S.K. Masuti]. Submitted. <a href="https://arxiv.org/pdf/2503.21173">arXiv:2503:21173</a>, 2025.</li>
 
-<li><em><strong>"On Gorensteinness of associated graded rings of filtrations"</strong></em><font size="3"> [with S. Dubey, S.K. Masuti, T. Okuma, J. K. Verma, K. Watanabe, K. Yoshida]. Communications in algebra, 1-21. <a href="https://www.tandfonline.com/doi/full/10.1080/00927872.2026.2619454">DOI:10.1080/00927872.2026.2619454</a>, 2026.</li>
+<li><strong>"On Gorensteinness of associated graded rings of filtrations"</strong> [with S. Dubey, S.K. Masuti, T. Okuma, J. K. Verma, K. Watanabe, K. Yoshida]. Communications in algebra, 1-21. <a href="https://www.tandfonline.com/doi/full/10.1080/00927872.2026.2619454">DOI:10.1080/00927872.2026.2619454</a>, 2026.</li>
 
 </ol>
-<figure>
-<img src="Po%20river.jpg" alt="A view of River Po from Turin" width="800" height="300">
-<figcaption style="font-weight: normal; font-style: italic; text-align: center;">A view of River Po from Turin, Italy</figcaption>
-</figure>
+
 <!-- ##### Download
 
 + https://arxiv.org/abs/2404.14189
@@ -67,3 +69,12 @@ year = {Year}}
 
 <!-- + [Presentation slides](presentation1.pdf) -->
 
+<!-- RESEARCH PHOTO: add new papers ABOVE this block. -->
+<figure class="research-photo">
+  <img src="Po%20river.jpg"
+       alt="A view of River Po from Turin"
+       loading="lazy" decoding="async">
+  <figcaption>A view of River Po from Turin, Italy</figcaption>
+</figure>
+
+</div>

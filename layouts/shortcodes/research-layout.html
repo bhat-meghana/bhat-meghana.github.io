@@ -1,0 +1,26 @@
+{{/* Load this stylesheet explicitly, without depending on a theme-specific CSS hook. */}}
+{{- with resources.Get "css/research-page.css" -}}
+<link rel="stylesheet" href="{{ .RelPermalink }}">
+{{- else -}}
+{{- errorf "Research stylesheet is missing: assets/css/research-page.css" -}}
+{{- end -}}
+<style>
+  .research-page a,
+  .research-page a:visited,
+  .research-page a:hover,
+  .research-page a:active,
+  .research-page a:focus,
+  .research-page .post-content a,
+  .research-page .post-content a:visited,
+  .research-page .post-content a:hover,
+  .research-page .post-content a:active,
+  .research-page .post-content a:focus {
+    color: inherit !important;
+    text-decoration: none !important;
+    text-decoration-line: none !important;
+    text-decoration-color: transparent !important;
+    box-shadow: none !important;
+    border-bottom: none !important;
+    outline: none !important;
+  }
+</style>
