@@ -34,6 +34,7 @@ The website produced by the template can be viewed at https://pascalmichaillat.o
 + The first time that you push your repository to GitHub, you need to allow GitHub Actions and GitHub Pages so the website can be built and deployed to GitHub Pages.
 + The first step is to [ask GitHub to publish the website with a GitHub Action](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow).  GitHub offers a ready-made action to publish a Hugo website, called `Deploy Hugo site to Pages`. This action must be enabled in the [Pages Settings](https://github.com/pmichaillat/hugo-website/settings/pages) of your GitHub repository. You can view the workflow triggered by the action in the `.github/workflows/hugo.yml` file.
 + Once the GitHub Actions are enabled, GitHub will build and publish the website as soon as the repository is updated. 
++ The homepage footer shows the date of the latest commit included in each GitHub Pages build as its last-updated date.
 
 ## Usage
 
