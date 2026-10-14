@@ -39,6 +39,10 @@ cover:
 
 </ol>
 
+<hr style="margin: 1.5rem 0; border: 0; border-top: 1px solid #d8d8d8;">
+
+<p><a href="/PhD%20Thesis.pdf" aria-label="Download PhD thesis PDF"><strong>📄 PhD Thesis: Hilbert functions in Waring decomposition and singularity theory</strong></a></p>
+
 <!-- ##### Download
 
 + https://arxiv.org/abs/2404.14189
