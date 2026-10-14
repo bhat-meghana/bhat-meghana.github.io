@@ -27,7 +27,7 @@ cover:
 
 <li><strong>"Classification of forms with Waring rank two"</strong> [with L. Brustenga I Moncus&iacute;, S.K. Masuti]. In preparation, 2026.</li>
 
-<li><strong>"Waring rank of complete intersection forms"</strong> [with E. Carlini, S.K. Masuti, R. Sebastian]. In preparation, 2026.</li>
+<li><strong>"Waring rank of complete intersection forms"</strong> [with E. Carlini, S.K. Masuti, R. Sebastian]. <a href="https://arxiv.org/abs/2610.18346">arXiv:2610.18346</a>, 2026.</li>
 
 <li><strong>"Demystifying Border Depth-3 Circuits via Differential Equations"</strong> [with P. Dutta and D. Shringi]. <a href="https://eccc.weizmann.ac.il/report/2026/245/">TR26-245</a>, 2026.
 
