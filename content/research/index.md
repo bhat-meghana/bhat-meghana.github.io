@@ -23,15 +23,15 @@ cover:
 
 ## Preprints
 <ol>
-<li><strong>"VSP of certain complete intersection forms"</strong> [with R. Sebastian]. In preparation, 2026.</li>
-
 <li><strong>"Classification of forms with Waring rank two"</strong> [with L. Brustenga I Moncus&iacute;, S.K. Masuti]. In preparation, 2026.</li>
+
+<li><strong>"On the variety of sum of powers of certain complete intersection forms"</strong> [with R. Sebastian]. <a href="https://arxiv.org/abs/2610.21544">arXiv:2610.21544</a>, 2026.</li>
 
 <li><strong>"Waring rank of complete intersection forms"</strong> [with E. Carlini, S.K. Masuti, R. Sebastian]. <a href="https://arxiv.org/abs/2610.18346">arXiv:2610.18346</a>, 2026.</li>
 
 <li><strong>"Demystifying Border Depth-3 Circuits via Differential Equations"</strong> [with P. Dutta and D. Shringi]. <a href="https://eccc.weizmann.ac.il/report/2026/245/">TR26-245</a>, 2026.
 
-<li><strong>"Waring decompositions of the product of two quadrics: the small rank cases"</strong> [with E. Carlini, S. Dubey, S.K. Masuti]. Linear algebra and its applications, 130-164. <a href="https://www.sciencedirect.com/science/article/pii/S0024379526002788">DOI:10.1016/j.laa.2026.06.027</a>, 2026. <a href="/Genoa.pdf">Poster.</a></li>
+<li><strong>"Waring decompositions of the product of two quadrics: the small rank cases"</strong> [with E. Carlini, S. Dubey, S.K. Masuti]. Linear algebra and its applications, 130-164. <a href="https://www.sciencedirect.com/science/article/pii/S0024379526002788">DOI:10.1016/j.laa.2026.06.027</a>, 2026. <a href="/Genoa.pdf" aria-label="View poster">🧾</a></li>
 
 <li><strong>"Symmetric decomposition of the Hilbert function of an ideal"</strong> [with S. Dubey, S.K. Masuti]. Submitted. <a href="https://arxiv.org/pdf/2503.21173">arXiv:2503:21173</a>, 2025.</li>
 
