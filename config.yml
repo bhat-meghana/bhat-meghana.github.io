@@ -39,9 +39,7 @@ menu:
               weight: 2
 
 params:
-    description: "I'm a PhD student in Mathematics at the Indian Institute of Technology Dharwad.
-                  My research interest is in Commutative algebra. In particular, 
-                  I work on problems related to Hilbert functions."
+    description: "Personal webpage of Meghana Bhat"
     author: "Meghana Bhat"
     DateFormat: "January 2006"
     defaultTheme: light
